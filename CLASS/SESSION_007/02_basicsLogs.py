@@ -14,3 +14,12 @@ Enter "help" below or click "Help" above for more information.
 0.9090909090909091
 >>> print(substraction)
 -1
+>>> m_raised_to_n = m ** n
+>>> print(m_raised_to_n)
+83521
+>>> 17 * 17 * 17 * 17
+83521
+>>> n_raised_to_m = n ** m
+>>> print(n_raised_to_m)
+17179869184
+
