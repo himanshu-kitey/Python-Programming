@@ -29,8 +29,6 @@ c: False
 >>> 
 >>> print('Himanshu')
 Himanshu
->>> print('b1'b1,'b2',b2)
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
 >>> print('b1',b1,'b2',b2)
 b1 True b2 False
 >>> c = b1 and b2
